@@ -10,6 +10,7 @@ import controller.VendingMachineController;
 //Домашня работа переделана полностью.
 //ССылка на 4 домашнию работу 
 // https://github.com/Garik073/OOPJava4/tree/master/src
+// Так же находяться файлы с пршлого 4 го домашнего задания закоментированные
 
 
 public class View {

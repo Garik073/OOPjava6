@@ -10,7 +10,7 @@ public class VendingMachineController {
 
     public void addProduct( Map<String, Object> productData) {
         
-            vendingMachineService.addProduct( productData);
+        vendingMachineService.addProduct( productData);
         
     }
 
